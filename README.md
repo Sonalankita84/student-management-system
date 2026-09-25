@@ -37,3 +37,12 @@ A simple console-based Student Management System developed using Python and SQLi
 
 ```bash
 python main.py
+```
+
+## Demo
+
+![Student Management System Demo](screenshots/student-management-system-demo.png)
+
+## Author
+
+Ankita Sonal
