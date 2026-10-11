@@ -1,3 +1,8 @@
+## 🌐 Live Demo
+
+Try the Student Management System online: [**Open Live Website**](https://ankitasonal84.pythonanywhere.com/)
+
+> This project is built using Python, Flask, SQLite, HTML, and CSS.
 # Student Management System
 
 A simple console-based Student Management System developed using Python and SQLite.
